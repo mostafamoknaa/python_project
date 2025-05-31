@@ -1,7 +1,10 @@
 # python_projec   
 
 
-https://github.com/user-attachments/assets/5670ce38-e065-4c2f-aa03-6e8fd24e2637
+
+https://github.com/user-attachments/assets/80a49882-6a91-4ff0-b8cb-e93f45e88db0
+
+
 
 
       
